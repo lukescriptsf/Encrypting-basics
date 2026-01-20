@@ -40,7 +40,7 @@ gpg --encrypt --recipient empfaenger@email.de vertraulich.txt
 
 Datei entschlüsseln
 ```
-gpg --decrypt /path/to/file/vertraulich.txt.gpg
+gpg --decrypt /path/to/file/vertraulich.txt.asc
 ```
 
 Public key entfernen
