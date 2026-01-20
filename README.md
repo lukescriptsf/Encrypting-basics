@@ -16,7 +16,7 @@ Wofür wird GPG verwendet?
  - Datei-Verschlüsselung: Sicheres Speichern oder Versenden von sensiblen Dokumenten auf Ubuntu/Linux.
  - Software-Integrität: Entwickler signieren ihre Programme, damit du sicher sein kannst, dass der Code nicht manipuliert wurde (z. B. bei apt-Repositories).
 
-## How to encrypt files bascis
+## Wie verschlüsseln und entschlüsseln basics
 
 Zeigt erstelle keys
 ```
