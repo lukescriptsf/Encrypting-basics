@@ -1,7 +1,7 @@
 # Encrypting-basics
 Dieses Repository nutzt GPG (GNU Privacy Guard) für die asymmetrische Verschlüsselung. Hier ist der schnelle Workflow zum Ver- und Entschlüsseln von Dateien.
 
-### GPG ist ein leistungsstarkes Werkzeug zur asymmetrischen Verschlüsselung. 
+### GPG ist ein leistungsstarkes Werkzeug zur asymmetrischen Verschlüsselung
 Es basiert auf dem PGP-Standard (Pretty Good Privacy) und wird verwendet, um digitale Kommunikation sicher und authentisch zu gestalten.
 Wie funktioniert es?
 
