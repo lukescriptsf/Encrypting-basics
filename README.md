@@ -33,6 +33,25 @@ Public key zum teilen
 gpg --armor --export dein@email.de > public_key.asc
 ```
 
+Public key hinzufügen von jemand anderem
+```
+gpg --import public_key.asc
+```
+
+Nachricht mit gpg erstellen (einfach)
+Im Anschluss CTRL+D um die Nachricht zu beenden
+```
+gpg -ear email@email.com
+*your message*
+```
+
+Nachricht entschlüsseln von jemand anderem (einfach)
+Im Anschluss CTRL+D um die Nachricht zu entschlüsseln
+```
+gpg --decrypt
+*friends message*
+```
+
 Datei verschlüsseln
 ```
 gpg --encrypt --recipient empfaenger@email.de vertraulich.txt
